@@ -1,2 +1,2 @@
 # cse258_HW3
-Predicting whether a user would play a game, and the play hours
+Build recommender systems to make predictions related to video game reviews from Steam.
